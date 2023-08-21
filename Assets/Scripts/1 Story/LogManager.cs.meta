@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: c265bcf9a1363e4439deb7eecbd35c54
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rightLogPref: {fileID: 1658141728936222368, guid: 0597101408d6034469a824e14c007fd3,
+      type: 3}
+  - leftLogPref: {fileID: 6401944523208255976, guid: a7926165b7902124e90c93facad0af5a,
+      type: 3}
+  - content: {instanceID: 0}
+  - upArrow: {instanceID: 0}
+  - downArrow: {instanceID: 0}
+  - scroll: {instanceID: 0}
+  - logPanel: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
